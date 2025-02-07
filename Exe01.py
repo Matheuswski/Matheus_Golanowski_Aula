@@ -1,4 +1,8 @@
-# Matheus Golanowski
-# Tenho 15 anos
-# Gosto de jogar vidio game e jogar basquete
-# Eu amo aula de programação de aplicativos
+x = 34 - 23 #um comentario
+y = "Hello" #outro comentario
+z = 3.45
+if z == 3.45 or y == "Hello":
+    x = x + 1
+    y = y + " World" #conncatenção de strings
+    print(x)
+    print(y)
